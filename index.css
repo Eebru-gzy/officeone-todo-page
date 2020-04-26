@@ -1,0 +1,40 @@
+.btnn {
+  height: 40px;
+  width: 100px;
+  padding: 5px 5px;
+}
+
+.header {
+  border-bottom: 2px solid #ddd; 
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.categories {
+  border: 1px solid #ddd;
+}
+.category-btn {
+  border: none;
+  border-radius: 5px;
+}
+
+.category-all-text {
+  border: 3px;
+}
+
+.list-group-item {
+  border: none;
+  padding: 0;
+  margin: 1px 0;
+}
+
+.cat-anchor {
+  color: #000;
+  text-decoration: none;
+}
+
+.card-width {
+  width: 17rem;
+}
